@@ -1,4 +1,4 @@
-# Laborator 5 — Programare Java
+# Programare Java
 
 ## 📚 Tema Laboratorului
 Acest laborator cuprinde mai multe exerciții pentru consolidarea conceptelor de programare orientată pe obiecte în Java, colecții, serializare JSON, expresii lambda și Stream API. Proiectul este împărțit în mai multe pachete și include clase pentru manipularea de date, calcul numeric și gestionarea mobilierului.
